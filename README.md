@@ -21,6 +21,8 @@ See the [`CHANGELOG.md`](https://github.com/ckeditor/stylelint-config-ckeditor5/
 
 ## Releasing package
 
+Note: Be sure that version of dependencies in [`package.json`](https://github.com/ckeditor/stylelint-config-ckeditor5/blob/master/package.json) are defined correctly.
+
 ### Changelog
 
 Before starting the release process, you need to generate the changelog:
