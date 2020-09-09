@@ -1,0 +1,34 @@
+{
+  "name": "stylelint-config-ckeditor5",
+  "version": "2.0.0",
+  "description": "CKEditor 5 stylelint preset.",
+  "keywords": [
+    "stylelint",
+    "config",
+    "lint",
+    "ckeditor"
+  ],
+  "main": ".stylelintrc",
+  "dependencies": {
+    "stylelint-config-recommended": "^3.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": ">=13.5.0"
+  },
+  "files": [
+    ".stylelintrc"
+  ],
+  "scripts": {
+    "changelog": "node ./scripts/changelog.js",
+    "release:bump-version": "node ./scripts/bump-version.js",
+    "release:publish": "node ./scripts/publish.js"
+  },
+  "author": "CKSource (http://cksource.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/ckeditor/stylelint-config-ckeditor5",
+  "bugs": "https://github.com/ckeditor/ckeditor5/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ckeditor/stylelint-config-ckeditor5.git"
+  }
+}
