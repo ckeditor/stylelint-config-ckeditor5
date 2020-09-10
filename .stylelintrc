@@ -3,7 +3,7 @@
 	"rules": {
 		"at-rule-no-unknown": null,
 		"indentation": "tab",
-		"declaration-property-value-blacklist": {
+		"declaration-property-value-disallowed-list": {
 			"/.*/": ["/#/", "/rgb/"]
 		},
 		"color-named": "never"
