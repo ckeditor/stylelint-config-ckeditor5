@@ -1,5 +1,9 @@
 CKEditor 5 stylelint preset
-========================
+===========================
+
+<h3 align=center>⚠⚠ This repository was moved ⚠⚠</h3>
+
+<p align=center>The package was moved to <a href="https://github.com/ckeditor/ckeditor5-linters-config/tree/master/packages">the <code>ckeditor5-linters-config</code> mono-repository</a>.</p>
 
 ## Usage
 
